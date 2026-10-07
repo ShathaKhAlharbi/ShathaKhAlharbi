@@ -1,6 +1,6 @@
 <div align="center">
   <img
-    src="./dark.svg"
-    width="100%"
-    alt="Shatha Alharbi">
+    src="./banner.png"
+    alt="Shatha Alharbi"
+    width="100%">
 </div>
